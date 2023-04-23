@@ -1,2 +1,0 @@
-# myProject
-print("hh")
